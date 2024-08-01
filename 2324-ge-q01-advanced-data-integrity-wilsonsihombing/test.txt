@@ -1,0 +1,53 @@
+
+lecturer-add#0110117601#Tennov Simanjuntak#THS#tennov@del.ac.id#Information Systems
+lecturer-add#0130058501#Parmonangan Rotua Togatorop#PAT#mona.togatorop@del.ac.id#Information Systems
+student-add#12S19003#Dian Filia Matondang#2019#Information Systems
+lecturer-add#0114129002#Iustisia Natalia Simbolon#IUS#iustisia.simbolon@del.ac.id#Informatics
+lecturer-add#0117027901#Arlinta Christy Barus#ACB#arlinta@del.ac.id#Informatics
+lecturer-add#0124108201#Rosni Lumbantoruan#RSL#rosni@del.ac.id#Information Systems
+course-add#12S2102#Basisdata#4#C#PAT,IUS,RSL
+student-add#12S19003#Dian Filia Matondang#2019#Information Systems
+lecturer-add#0130058501#Parmonangan Rotua Togatorop#PAT#mona.togatorop@del.ac.id#Information Systems
+student-add#12S19025#Petrus Aquanur Sinaga#2019#Information Systems
+student-add#12S19027#Gilbert E M Hutajulu#2019#Information Systems
+student-add#12S19044#Elisabet Margaret Sirait#2019#Information Systems
+course-add#12S2201#Analisis dan Desain Sistem#3#C#PAT,ACB
+lecturer-add#0126078702#Guntur Petrus Boy Knight Siboro#GPS#guntur.siboro@del.ac.id#Electrical Engineering
+course-add#10S2101#Algoritma dan Struktur Data#3#C#THS,GPS
+student-add#12S19005#Amelia Jane Audri Lumbanraja#2019#Information Systems
+student-add#12S19015#Putri Anyelir BR Tobing#2019#Information Systems
+student-add#12S19055#Dwita Sihombing#2019#Information Systems
+student-add#12S19062#Ardika Solagratia Sianturi#2019#Information Systems
+student-add#12S20001#Marcelino Manalu#2020#Information Systems
+student-add#12S20002#Yoga Sihombing#2020#Information Systems
+enrollment-add#10S2101#12S20002#2021/2022#odd
+enrollment-add#10S2101#12S20001#2021/2022#odd
+enrollment-add#12S2201#12S20001#2021/2022#even
+enrollment-add#12S2201#12S19025#2021/2022#even
+---
+
+
+0110117601|Tennov Simanjuntak|THS|tennov@del.ac.id|Information Systems
+0130058501|Parmonangan Rotua Togatorop|PAT|mona.togatorop@del.ac.id|Information Systems
+0114129002|Iustisia Natalia Simbolon|IUS|iustisia.simbolon@del.ac.id|Informatics
+0117027901|Arlinta Christy Barus|ACB|arlinta@del.ac.id|Informatics
+0124108201|Rosni Lumbantoruan|RSL|rosni@del.ac.id|Information Systems
+0126078702|Guntur Petrus Boy Knight Siboro|GPS|guntur.siboro@del.ac.id|Electrical Engineering
+12S2102|Basisdata|4|C|PAT (mona.togatorop@del.ac.id);IUS (iustisia.simbolon@del.ac.id);RSL (rosni@del.ac.id)
+12S2201|Analisis dan Desain Sistem|3|C|PAT (mona.togatorop@del.ac.id);ACB (arlinta@del.ac.id)
+10S2101|Algoritma dan Struktur Data|3|C|THS (tennov@del.ac.id);GPS (guntur.siboro@del.ac.id)
+12S19003|Dian Filia Matondang|2019|Information Systems
+12S19025|Petrus Aquanur Sinaga|2019|Information Systems
+12S19027|Gilbert E M Hutajulu|2019|Information Systems
+12S19044|Elisabet Margaret Sirait|2019|Information Systems
+12S19005|Amelia Jane Audri Lumbanraja|2019|Information Systems
+12S19015|Putri Anyelir BR Tobing|2019|Information Systems
+12S19055|Dwita Sihombing|2019|Information Systems
+12S19062|Ardika Solagratia Sianturi|2019|Information Systems
+12S20001|Marcelino Manalu|2020|Information Systems
+12S20002|Yoga Sihombing|2020|Information Systems
+10S2101|12S20002|2021/2022|odd|None
+10S2101|12S20001|2021/2022|odd|None
+12S2201|12S20001|2021/2022|even|None
+12S2201|12S19025|2021/2022|even|None
+
